@@ -9,3 +9,8 @@ Till 27th of March '19:
 3. Textbooks of statistics uploaded
 4. Spoke about the course plan for the next week
 
+29th March:
+1. Uploaded the statistics introduction deck
+2. Discussed Tabulation and digramitisation of data
+
+Next class on Wednesday 3rd April '19 @ 8:35 AM.

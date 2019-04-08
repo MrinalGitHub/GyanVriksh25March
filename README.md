@@ -14,3 +14,9 @@ Till 27th of March '19:
 2. Discussed Tabulation and digramitisation of data
 
 Next class on Thursday 4th April '19 @ 8:35 AM.
+
+08-Apr-19:
+1. Uploaded the R-Installation writeup
+2. Finished discussion on measures of central tendencies
+3. Initiated Measures of Deviation
+

@@ -1,0 +1,24 @@
+1. Step1: Downloading R
+
+Please get to the link: https://cran.r-project.org/bin/windows/base/
+
+Install the version of R as per your operating system.
+
+Click this link for Windows: "Download R 3.5.1 for Windows" 
+
+Similarly, follow the same for other OS if you have any
+
+
+2. Step2: Installing R Studios
+
+Get to the site : https://www.rstudio.com/products/rstudio/download/
+
+Download the Freeware 'RStudio Desktop Open Source'
+Select the installer that best fits your computer, generally if you are using a windows OS, the 'RStudio 1.1.456 - Windows Vista/7/8/10' installer should be a fit. This should be of 86 MB.
+
+Please install R first, then the RStudio ... this will ease the automatic absorbtion of the R-version for the RStudio.
+
+
+
+
+

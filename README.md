@@ -20,3 +20,8 @@ Next class on Thursday 4th April '19 @ 8:35 AM.
 2. Finished discussion on measures of central tendencies
 3. Initiated Measures of Deviation
 
+09-Apr-19:
+1. Measures of Deviation
+2. Skewness and Kurtosis
+3. Introduction to the R-Console
+

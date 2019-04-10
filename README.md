@@ -1,3 +1,10 @@
+Update for 10-Apr-19:
+1. Completion of Descriptive statistics discussion
+2. Introduction to the R-Console
+3. First Assignment - Basic Statistics over MBA Salaries dataset
+   (Assignment to be completed by Monday 15 Apr '19)
+4. Uploaded the MBA salaries dataset with the Assignment questions for Descriptive statistics
+
 Update for 09-Apr-19:
 1. Measures of Deviation
 2. Skewness and Kurtosis

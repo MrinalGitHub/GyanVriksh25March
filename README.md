@@ -1,9 +1,11 @@
+Update for 15-Apr-19:
+1. conclusion of introduction to R-Tooling class
+2. Discussion of the Assignment
+3. Introduction to the Normal distribution
+
 Update for 12-Apr-19:
 1. Discussed basic R coding
 2. Uploaded the Tooling-UsingR.R for practice
-
-
-
 
 Update for 10-Apr-19:
 1. Completion of Descriptive statistics discussion

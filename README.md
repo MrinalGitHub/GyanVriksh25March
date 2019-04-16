@@ -1,7 +1,9 @@
 Update for 16-Apr-19:
-1. Discussion over normal distributions
-2. Uploaded the deck of normal distributions
-3.Importance of Normal distribution for Machine learning
+1. Introduction to types of variables - Discrete and Continuous
+2. Introduction to distributions of Discrete and Continuous variables 
+3. Introduction to the normal distributions
+4. Uploaded the deck of normal distributions
+5.Importance of Normal distribution for Machine learning
 
 Update for 15-Apr-19:
 1. conclusion of introduction to R-Tooling class

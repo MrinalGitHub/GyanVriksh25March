@@ -1,3 +1,8 @@
+Update for 16-Apr-19:
+1. Discussion over normal distributions
+2. Uploaded the deck of normal distributions
+3.Importance of Normal distribution for Machine learning
+
 Update for 15-Apr-19:
 1. conclusion of introduction to R-Tooling class
 2. Discussion of the Assignment

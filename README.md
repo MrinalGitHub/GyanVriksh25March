@@ -1,3 +1,17 @@
+Update for 17-Apr-19:
+1. Continuation with the discussion on Normal distribution
+2. Introduction to the Probability distribution tables (Standard normal distribution)
+3. Solving a few sample problems with standardization of the normal variable
+
+Details of Good Friday(19th May-19) class below - Possibly extended over for weekend classes too.
+
+Mrinal Chakraborty is inviting you to a scheduled DS Class over Zoom meeting on Good Friday, (Possibly) Saturday and Sunday classes 
+Join Zoom Meeting @ https://zoom.us/j/831253772 
+Meeting ID: 831 253 772 
+Find your local number: https://zoom.us/u/abPxngq0Xz 
+
+Timing 8:30 AM - 10 AM 
+
 Update for 16-Apr-19:
 1. Introduction to types of variables - Discrete and Continuous
 2. Introduction to distributions of Discrete and Continuous variables 

@@ -1,3 +1,9 @@
+Update for 18-Apr-19:
+1. Concluded the discussion of Normal distributions
+2. Please download standard normal distribution table from https://www.math.arizona.edu/~rsims/ma464/standardnormaltable.pdf
+3. Suggest doing some problems from your textbooks to get a better handle of this concept
+4. The same concept will be carried forward for understanding of sampling and Central Limit theorem
+
 Update for 17-Apr-19:
 1. Continuation with the discussion on Normal distribution
 2. Introduction to the Probability distribution tables (Standard normal distribution)

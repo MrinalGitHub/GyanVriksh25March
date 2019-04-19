@@ -1,9 +1,38 @@
+Update for 18-Apr-19:
+1. Concluded the discussion of Normal distributions
+2. Please download standard normal distribution table from https://www.math.arizona.edu/~rsims/ma464/standardnormaltable.pdf
+3. Suggest doing some problems from your textbooks to get a better handle of this concept
+4. The same concept will be carried forward for understanding of sampling and Central Limit theorem
+
+Update for 17-Apr-19:
+1. Continuation with the discussion on Normal distribution
+2. Introduction to the Probability distribution tables (Standard normal distribution)
+3. Solving a few sample problems with standardization of the normal variable
+
+Details of Good Friday(19th May-19) class below - Possibly extended over for weekend classes too.
+
+Mrinal Chakraborty is inviting you to a scheduled DS Class over Zoom meeting on Good Friday, (Possibly) Saturday and Sunday classes 
+Join Zoom Meeting @ https://zoom.us/j/831253772 
+Meeting ID: 831 253 772 
+Find your local number: https://zoom.us/u/abPxngq0Xz 
+
+Timing 8:30 AM - 10 AM 
+
+Update for 16-Apr-19:
+1. Introduction to types of variables - Discrete and Continuous
+2. Introduction to distributions of Discrete and Continuous variables 
+3. Introduction to the normal distributions
+4. Uploaded the deck of normal distributions
+5.Importance of Normal distribution for Machine learning
+
+Update for 15-Apr-19:
+1. conclusion of introduction to R-Tooling class
+2. Discussion of the Assignment
+3. Introduction to the Normal distribution
+
 Update for 12-Apr-19:
 1. Discussed basic R coding
 2. Uploaded the Tooling-UsingR.R for practice
-
-
-
 
 Update for 10-Apr-19:
 1. Completion of Descriptive statistics discussion

@@ -1,3 +1,15 @@
+Update for 21-Apr-19:
+1. Furthered the discussion over Sampling 
+2. Introducted the distribution of sample-means
+3. Discussion of the Central limit theorem (Our hero for non-normal distributions)
+4. Practical demostration of the CLT - Student's have finally restored confidence over me !
+5. Uploaded the recording of the class - Please use VLC player. File name 'Recording_ClassOf_21Apr19.mpu'
+
+Update for 20-Apr-19:
+1. Introduction to Sampling
+2. Why learn Sampling and how its helpful for ML
+3. Explained concepts upto calculation of sample-means (and its process)
+
 Update for 18-Apr-19:
 1. Concluded the discussion of Normal distributions
 2. Please download standard normal distribution table from https://www.math.arizona.edu/~rsims/ma464/standardnormaltable.pdf

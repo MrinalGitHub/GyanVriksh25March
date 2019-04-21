@@ -3,7 +3,7 @@ Update for 21-Apr-19:
 2. Introducted the distribution of sample-means
 3. Discussion of the Central limit theorem (Our hero for non-normal distributions)
 4. Practical demostration of the CLT - Student's have finally restored confidence over me !
-5. Uploaded the recording of the class - Please use VLC player. File name 'Recording_ClassOf_21Apr19.mpu'
+5. Uploaded the recording of the class - Please use VLC player. File name 'Recording_ClassOf_21Apr19.m3u'
 
 Update for 20-Apr-19:
 1. Introduction to Sampling

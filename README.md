@@ -1,3 +1,13 @@
+Update for 23-Apr-19:
+1. Discussion of Hypothesis testing
+2. Assignment ask
+3. Prepration for Python learning
+4. Tried skype recording...Lets c
+
+Update for 22-Apr-19:
+1. Concluded the discussion on Sampling and CLT
+2. Introduction to the Hypothesis testing
+
 Update for 21-Apr-19:
 1. Furthered the discussion over Sampling 
 2. Introducted the distribution of sample-means

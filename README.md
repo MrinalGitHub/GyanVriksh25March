@@ -2,7 +2,7 @@ Update for 29-Apr-19:
 1. Initiated Python coding class
 2. Practical examples in coding with Pycharm (OpenSource IDE for Python)
 3. Uploaded 2 textbooks for Python learning
-4. All code examples have been uploaded in the Folder 'Python_Code'
+4. All code examples have been uploaded in the zipped File 'Basic-Python_Code_Examples.zip'
 
 Update for 23-Apr-19:
 1. Discussion of Hypothesis testing

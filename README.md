@@ -4,6 +4,9 @@ Update for 29-Apr-19:
 3. Uploaded 2 textbooks for Python learning
 4. All code examples have been uploaded in the zipped File 'Basic-Python_Code_Examples.zip'
 
+Also, checkout the zip file 'Histograms with R' for code and PDF documentation around creation of Histograms
+and Density plots
+
 Update for 23-Apr-19:
 1. Discussion of Hypothesis testing
 2. Assignment ask

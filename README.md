@@ -1,3 +1,7 @@
+Update for 30-Apr-19:
+1. Completed introduction
+2. Moved with few CH1 - CH2 examples
+
 Update for 29-Apr-19:
 1. Initiated Python coding class
 2. Practical examples in coding with Pycharm (OpenSource IDE for Python)

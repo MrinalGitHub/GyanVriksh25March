@@ -1,3 +1,8 @@
+Update for 2-May-19:
+1. Proceeed with Python code excepts
+2. Deal with Expressions and functions
+Please execute the sample codes and refer the textbook for all details.
+
 Update for 30-Apr-19:
 1. Completed introduction
 2. Moved with few CH1 - CH2 examples

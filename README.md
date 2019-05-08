@@ -1,3 +1,8 @@
+Update uptill 08-May-19:
+1. Finished discussion uptill files
+2. Uploaded decks till the files chapter
+3. Uploaded the GotoMeeting videos
+
 Update for 2-May-19:
 1. Proceeed with Python code excepts
 2. Deal with Expressions and functions

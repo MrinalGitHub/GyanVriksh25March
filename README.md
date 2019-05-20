@@ -1,3 +1,10 @@
+Update uptill 19-May-19:
+1. Assesment of the Assignment for 'MBA Salaries' dataset in Python
+2. Introduction to General Linear regression
+3. Uploaded the Deck for General Linear Regression
+Please refer your statistics textbooks for more deeper reading of the topic
+
+
 Update uptill 08-May-19:
 1. Finished discussion uptill files
 2. Uploaded decks till the files chapter

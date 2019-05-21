@@ -1,4 +1,4 @@
-Update uptill 19-May-19:
+Update uptill 20-May-19:
 1. Furthering the concept of General Linear Regression
 2. Setting the case for GLR with the Tip Example
 3. Recomendation of reading through the Rattle Textbook

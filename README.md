@@ -1,4 +1,10 @@
 Update uptill 19-May-19:
+1. Furthering the concept of General Linear Regression
+2. Setting the case for GLR with the Tip Example
+3. Recomendation of reading through the Rattle Textbook
+
+
+Update uptill 19-May-19:
 1. Assesment of the Assignment for 'MBA Salaries' dataset in Python
 2. Introduction to General Linear regression
 3. Uploaded the Deck for General Linear Regression

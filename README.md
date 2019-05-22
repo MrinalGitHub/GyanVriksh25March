@@ -1,3 +1,6 @@
+Update uptill 21-May-19:
+1. Concluding discussion on General Linear Regression
+
 Update uptill 20-May-19:
 1. Furthering the concept of General Linear Regression
 2. Setting the case for GLR with the Tip Example

@@ -1,3 +1,8 @@
+Update uptill 23-May-19:
+1. Concluded the dicussion on the Simple Linear regression
+2. Uploaded the R-Code file for reference of code discussed in the class
+Suggest all of the Students to do reading around the concept, since in the next class I shall validate the Explicit and Implicit assumption of the GLR.
+
 Update uptill 21-May-19:
 1. Concluding discussion on General Linear Regression
 

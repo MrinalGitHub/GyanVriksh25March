@@ -1,3 +1,10 @@
+Update uptill 27-May-19:
+1. Discussion of Multiple Regression Equation
+2. Discussion over validation of General Linear regression assumption
+3. Uploaded the textbook 'DataMining with R' for discussion of upcoming advanced ML algos
+
+Discussion of the topics to be covered this week: Decision Trees, Random Forest and maybe a boosting algo
+
 Update uptill 23-May-19:
 1. Concluded the dicussion on the Simple Linear regression
 2. Uploaded the R-Code file for reference of code discussed in the class

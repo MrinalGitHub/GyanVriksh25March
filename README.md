@@ -1,3 +1,12 @@
+Update uptill 31-May-19:
+1. Shortcut to test all the assumptions
+2. Fixing of GLR issues with the gvlma::gvlma(model) function
+3. Introduction to Rattle()
+
+Update uptill 30-May-19:
+1. Discussed the R-based testing of General linear regression
+2. Proposed the weekend classes - Shall discuss the same in the class
+
 Update uptill 28-May-19:
 1. Discussion of Multiple Regression Equation
 2. Discussion over validation of General Linear regression assumption

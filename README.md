@@ -1,3 +1,9 @@
+Update uptill 3-June-19:
+1. Decision Trees
+2. Introduction to Random Forest
+
+Please read the DataMining with Rattle Textbook for detailed discussion
+
 Update uptill 31-May-19:
 1. Shortcut to test all the assumptions
 2. Fixing of GLR issues with the gvlma::gvlma(model) function

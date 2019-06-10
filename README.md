@@ -1,3 +1,11 @@
+Update uptill 10-June-19:
+1. Random forest dicussion
+2. Demo of Random forest in Rattle()
+
+
+Update uptill 7-June-19:
+Concluded the discussion on Decision Trees
+
 Update uptill 3-June-19:
 1. Decision Trees
 2. Introduction to Random Forest

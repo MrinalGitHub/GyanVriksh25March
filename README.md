@@ -1,3 +1,9 @@
+
+Update uptill 12-June-19:
+1. Class test given and uploaded
+8:30 AM - 8:45 AM window for doubts. Please clarify your technical queries 
+
+
 Update uptill 10-June-19:
 1. Random forest dicussion
 2. Demo of Random forest in Rattle()

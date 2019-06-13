@@ -1,3 +1,13 @@
+Update uptill 14-June-19:
+1. Uploaded the K-Means and KNN clustering algorithm Zip files
+2. Concluded with the technical discussion of K-means clustering
+3. Helped with business, theoritical and Code exaples of the K-Means clustering.
+4. Install IR kernel in your Jupyter notebooks 'How to' file too uploaded
+
+Update uptill 13-June-19:
+1. Completed the explanation of the concept of Clustering
+2. Applications of Clustering in business
+3. Concluded the theoritical explanation of K-Means clustering
 
 Update uptill 12-June-19:
 1. Class test given and uploaded

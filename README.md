@@ -1,3 +1,7 @@
+Update uptill 17-June-19:
+1. Discussion of KNN Classification algorithm
+2. The deck has already been uploaded on the 14-June-19
+
 Update uptill 14-June-19:
 1. Uploaded the K-Means and KNN clustering algorithm Zip files
 2. Concluded with the technical discussion of K-means clustering

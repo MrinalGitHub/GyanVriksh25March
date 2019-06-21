@@ -1,3 +1,9 @@
+
+Update uptill 21-June-19:
+1. Uploaded Advanced Python Scripts for practice - Numpy, Pandas and matplotlib
+2. Discussed the SVM and uploaded the deck with the code snipets
+
+
 Update uptill 17-June-19:
 1. Discussion of KNN Classification algorithm
 2. The deck has already been uploaded on the 14-June-19

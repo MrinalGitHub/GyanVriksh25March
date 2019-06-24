@@ -1,3 +1,9 @@
+Update uptill 24-June-19:
+1. Completed the discussion of Support-Vector-Machines
+2. Uploaded the deck(which contains code snipets) for practice
+3. Uploaded the dataset for practice.
+Tomorrow, we shall initiate the Logistic-Regression discussion
+
 
 Update uptill 21-June-19:
 1. Uploaded Advanced Python Scripts for practice - Numpy, Pandas and matplotlib

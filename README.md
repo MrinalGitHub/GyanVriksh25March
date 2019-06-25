@@ -1,3 +1,8 @@
+Update uptill 25-June-19:
+1. Initiated the dicussion over Logistic regression
+2. Logistic Regression Deck Uploaded
+Please update your knowledge on OLS, probability and Machine learning basics
+
 Update uptill 24-June-19:
 1. Completed the discussion of Support-Vector-Machines
 2. Uploaded the deck(which contains code snipets) for practice

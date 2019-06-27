@@ -1,3 +1,7 @@
+Update uptill 28-June-19:
+1. Missing Value Treatment - RCode and Guide
+2. Concluded the discussion on Missing Values and Outliers
+
 Update uptill 27-June-19:
 1. What are outliers? Technical definition of outliers.
 2. Why detection of outliers is important

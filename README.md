@@ -1,3 +1,13 @@
+Update uptill 27-June-19:
+1. What are outliers? Technical definition of outliers.
+2. Why detection of outliers is important
+3. Methods of detection of outliers : Single Variate, Bi-Variate and the Multi-variate method
+4. Uploaded the code and the data for you to test and re-run
+
+Update uptill 26-June-19:
+1. Concluded the logistic regression discussion
+2. Uploaed the logistic regression files for you to run
+
 Update uptill 25-June-19:
 1. Initiated the dicussion over Logistic regression
 2. Logistic Regression Deck Uploaded

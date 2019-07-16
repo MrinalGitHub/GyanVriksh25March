@@ -1,3 +1,9 @@
+Update uptill 16-July-19:
+1. Explained the Tensor Flow process
+2. Gave examples to further the TF knowledge and links for further reading
+
+Shall demostrate CNN with Tensorflow on 17 July-19
+
 Update uptill 28-June-19:
 1. Missing Value Treatment - RCode and Guide
 2. Concluded the discussion on Missing Values and Outliers

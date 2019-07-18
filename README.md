@@ -1,3 +1,9 @@
+
+Update as of 18-July-19:
+1. Uploaded the TensorFlow code for CNN
+2. Uploaded the Deck for TensorFlow
+Concluded the discussion on Tensor Flow
+
 Update uptill 16-July-19:
 1. Explained the Tensor Flow process
 2. Gave examples to further the TF knowledge and links for further reading

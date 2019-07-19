@@ -1,3 +1,9 @@
+Update as of 19-July-19:
+1. Initiated discussion of TimeSeries
+2. Uploaded all the content related to TimeSeries - Textbook+Tutorial Walkthru+RCode
+3. Intend to conclude the topic by Monday
+
+Please go through the textbook for background reading and use the Tutorial Walkthough(which is discussed in the class) to gain more understanding of TimeSeries
 
 Update as of 18-July-19:
 1. Uploaded the TensorFlow code for CNN
